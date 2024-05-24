@@ -1,0 +1,7 @@
+<svg width="300" height="150" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background with Border Radius -->
+  <rect width="300" height="150" fill="#007B" rx="150" ry="150"/>
+  
+  <!-- Text -->
+  <text x="50%" y="40%" dominant-baseline="middle" text-anchor="middle" font-family="Arial" font-size="28" font-weight="bold" fill="#fff">Harmony University</text>
+</svg>
